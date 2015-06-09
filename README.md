@@ -14,4 +14,4 @@ The testbench can be found under /tb
 
 ## License
 
-See the [LICENSE](LICENSE.txt) file for license rights and limitations (Apache 2.0).
+See the [LICENSE](LICENSE) file for license rights and limitations (Apache 2.0).
