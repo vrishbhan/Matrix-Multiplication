@@ -1,7 +1,6 @@
 //*****************************************************************//
 // Rounding Logic for the Multipliers
 // Created By - Vrishbhan Singh Sisodia
-//	Student ID - 009300980
 //	San Jose State University
 //	EE 278
 //*****************************************************************//
